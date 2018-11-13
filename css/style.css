@@ -21,7 +21,7 @@ html {
 .second-div {
     background-color: #F3FDF1;
     width: 100%;
-    height: 400px;
+    height: 700px;
 }
 
 .third-div-bg {
@@ -37,4 +37,20 @@ html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.FOUTH-div-bg {
+    background-color: #F3FDF1;
+    width: 100%;
+    height: 4000px;
+}
+
+.card-img-top {
+    background-color: #F3FDF1;
+}
+
+.img {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
 }
